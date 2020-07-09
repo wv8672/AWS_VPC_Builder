@@ -4,7 +4,6 @@ Terraform Template that builds AWS VPC including: Internet Gateway, Public / Pri
 ---------------------------------------------------------------------------------------------------------------------
 
 ### AWS VPC Network Topology:
-![Alt text](aws_dfir_topology.png?raw=true "AWS DFIR Topology")
 ![alt text](aws_dfir_topology.png "Title")
 ----------------------------------------------------------------------------------------------------------------------
 
